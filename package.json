@@ -1,0 +1,46 @@
+{
+  "name": "grunt-buble",
+  "version": "0.1.0",
+  "description": "Grun task for Buble, the blazing fast, batteries-included ES2015 compiler",
+  "license": "MIT",
+  "repository": "w8r/grunt-buble",
+  "author": {
+    "name": "Milevski Alexander",
+    "email": "info@w8r.name",
+    "url": "w8r.name"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "grunt"
+  },
+  "files": [
+    "tasks"
+  ],
+  "keywords": [
+    "gruntplugin",
+    "buble",
+    "transpiler",
+    "es2015",
+    "es6",
+    "rewriting",
+    "transformation",
+    "syntax",
+    "codegen",
+    "javascript",
+    "compiler"
+  ],
+  "dependencies": {
+    "buble": "^0.15.2"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-clean": "^1.0.0",
+    "grunt-contrib-nodeunit": "^1.0.0"
+  },
+  "peerDependencies": {
+    "grunt": ">=0.4.0"
+  }
+}
