@@ -1,6 +1,6 @@
 {
   "name": "grunt-buble",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Grun task for Buble, the blazing fast, batteries-included ES2015 compiler",
   "license": "MIT",
   "repository": "w8r/grunt-buble",
